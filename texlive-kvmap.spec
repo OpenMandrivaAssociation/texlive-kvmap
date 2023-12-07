@@ -1,6 +1,6 @@
 Name:		texlive-kvmap
-Version:	56361
-Release:	2
+Version:	67201
+Release:	1
 Summary:	Create Karnaugh maps with LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/kvmap
