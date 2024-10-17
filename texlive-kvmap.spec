@@ -3,7 +3,7 @@ Version:	67201
 Release:	1
 Summary:	Create Karnaugh maps with LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/kvmap
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/kvmap
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/kvmap.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/kvmap.doc.r%{version}.tar.xz
